@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unity Project\\KCPNet\\NetBasic\\NetBasic\\NetBasic.csproj": {}
+    "D:\\Unity Project\\KCPNet\\NetBasic\\Server\\Server.csproj": {}
   },
   "projects": {
-    "D:\\Unity Project\\KCPNet\\NetBasic\\NetBasic\\NetBasic.csproj": {
+    "D:\\Unity Project\\KCPNet\\NetBasic\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity Project\\KCPNet\\NetBasic\\NetBasic\\NetBasic.csproj",
-        "projectName": "NetBasic",
-        "projectPath": "D:\\Unity Project\\KCPNet\\NetBasic\\NetBasic\\NetBasic.csproj",
+        "projectUniqueName": "D:\\Unity Project\\KCPNet\\NetBasic\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\Unity Project\\KCPNet\\NetBasic\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\accou\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity Project\\KCPNet\\NetBasic\\NetBasic\\obj\\",
+        "outputPath": "D:\\Unity Project\\KCPNet\\NetBasic\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

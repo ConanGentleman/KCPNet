@@ -1,0 +1,14 @@
+D:\Unity Project\KCPNet\NetBasic\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Unity Project\KCPNet\NetBasic\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Unity Project\KCPNet\NetBasic\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Unity Project\KCPNet\NetBasic\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Unity Project\KCPNet\NetBasic\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Unity Project\KCPNet\NetBasic\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Unity Project\KCPNet\NetBasic\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
