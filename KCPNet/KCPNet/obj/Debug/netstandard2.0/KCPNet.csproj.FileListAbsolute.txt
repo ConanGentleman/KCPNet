@@ -1,0 +1,10 @@
+D:\Unity Project\KCPNet\KCPNet\KCPNet\bin\Debug\netstandard2.0\KCPNet.deps.json
+D:\Unity Project\KCPNet\KCPNet\KCPNet\bin\Debug\netstandard2.0\KCPNet.dll
+D:\Unity Project\KCPNet\KCPNet\KCPNet\bin\Debug\netstandard2.0\KCPNet.pdb
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.csproj.AssemblyReference.cache
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.AssemblyInfoInputs.cache
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.AssemblyInfo.cs
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.csproj.CoreCompileInputs.cache
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.dll
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netstandard2.0\KCPNet.pdb

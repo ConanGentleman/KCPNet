@@ -9,7 +9,7 @@ namespace KCPTest
         static void Main(string[] args)
         {
             const uint conv = 123;
-
+            //conv实际上得由服务器分配
             KCPItem kcpServer = new KCPItem(conv, "server");
             KCPItem kcpClient = new KCPItem(conv, "client");
 
