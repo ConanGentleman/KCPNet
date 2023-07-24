@@ -1,0 +1,10 @@
+D:\Unity Project\KCPNet\KCPNet\KCPNet\bin\Debug\netcoreapp2.1\KCPNet.deps.json
+D:\Unity Project\KCPNet\KCPNet\KCPNet\bin\Debug\netcoreapp2.1\KCPNet.dll
+D:\Unity Project\KCPNet\KCPNet\KCPNet\bin\Debug\netcoreapp2.1\KCPNet.pdb
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.csproj.AssemblyReference.cache
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.AssemblyInfoInputs.cache
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.AssemblyInfo.cs
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.csproj.CoreCompileInputs.cache
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.dll
+D:\Unity Project\KCPNet\KCPNet\KCPNet\obj\Debug\netcoreapp2.1\KCPNet.pdb

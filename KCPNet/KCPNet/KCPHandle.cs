@@ -25,5 +25,15 @@ namespace PENet
             }
             //throw new NotImplementedException();
         }
+
+        public Action<byte[]> Recv;
+        /// <summary>
+        /// 处理KCP接收的数据
+        /// </summary>
+        /// <param name="buffer"></param>
+        public void Receive(byte[] buffer)
+        {
+            Recv(buffer);
+        }
     }
 }
